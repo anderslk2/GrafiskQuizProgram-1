@@ -12,6 +12,7 @@ namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
+        //TODO Endeligt test commit.
         static int maxsympantal = 4;
         Datahandler datahandler;
         public Form1()
