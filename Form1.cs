@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             datahandler = new Datahandler(maxsympantal);
-            datahandler.indlæsdata(@"C:\Users\Anders\Downloads\perlin_noise_csharp\QuestionProgram\QuestionProgram\sygdomme.xml");
+            datahandler.indlæsdata(@"..\..\Sygdomme.xml");
             InitializeComponent();
         }
 

@@ -1,0 +1,7 @@
+C:\Users\MathiasLenovo\Documents\GitHub\grafiskquizsjov\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\MathiasLenovo\Documents\GitHub\grafiskquizsjov\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Debug\GrafiskQuizProgram.csproj.GenerateResource.Cache
+C:\Users\MathiasLenovo\Documents\GitHub\grafiskquizsjov\GrafiskQuizProgram\GrafiskQuizProgram\bin\Debug\GrafiskQuizProgram.exe
+C:\Users\MathiasLenovo\Documents\GitHub\grafiskquizsjov\GrafiskQuizProgram\GrafiskQuizProgram\bin\Debug\GrafiskQuizProgram.pdb
+C:\Users\MathiasLenovo\Documents\GitHub\grafiskquizsjov\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Debug\GrafiskQuizProgram.csprojResolveAssemblyReference.cache
+C:\Users\MathiasLenovo\Documents\GitHub\grafiskquizsjov\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Debug\GrafiskQuizProgram.exe
+C:\Users\MathiasLenovo\Documents\GitHub\grafiskquizsjov\GrafiskQuizProgram\GrafiskQuizProgram\obj\x86\Debug\GrafiskQuizProgram.pdb
